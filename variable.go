@@ -25,4 +25,8 @@ func main() {
 	fmt.Println(firstName)
 	fmt.Println(middleName)
 	fmt.Println(lastName)
+
+
+	var age = 17
+	fmt.Println(age)
 } 
