@@ -9,5 +9,5 @@ func main () {
 
 	fmt.Println(nilai32)
 	fmt.Println(nilai64)
-	fmt.Println(nilai16)
+	fmt.Println(nilai16)	
 }
